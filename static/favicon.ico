@@ -1,1 +1,2 @@
-web: voila PRUEBA MATERIALES.ipynb --port=$PORT --no-browser --VoilaConfiguration.static_whitelist=static
+web: voila "PRUEBA MATERIALES.ipynb" --port=$PORT --Voila.ip=0.0.0.0 --VoilaConfiguration.static_whitelist=static --no-browser
+

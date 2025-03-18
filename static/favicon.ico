@@ -1,0 +1,1 @@
+web: voila PRUEBA MATERIALES.ipynb --port=$PORT --no-browser --VoilaConfiguration.static_whitelist=static
